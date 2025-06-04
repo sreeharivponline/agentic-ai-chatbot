@@ -4,7 +4,7 @@ This is a lightweight, agent-based chatbot application that can:
 
 - 🗂 Answer questions based on the content of a PDF document.
 - 🌐 Perform fallback web search if the answer is not found in the PDF.
-- 🧠 Maintain short-term memory of the conversation using a Thought → Action → Observation loop.
+- 🧠 Maintain short-term memory
 - 📄 Compile a structured report based on your interactions.
 - 🤖 Powered by [Groq API](https://groq.com/) with the free **LLaMA 3 8B model** via `ChatGroq`.
 
