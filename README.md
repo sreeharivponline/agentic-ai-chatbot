@@ -12,7 +12,8 @@ This is a lightweight, agent-based chatbot application that can:
 
 > [Build a RAG Chatbot with LangChain and Groq (LLaMA3)](https://www.youtube.com/watch?v=B5XD-qpL0FU)  
 > by @codewithvikas  
-> ![YouTube Thumbnail](https://img.youtube.com/vi/B5XD-qpL0FU/maxresdefault.jpg)
+> [Build a PDF AI Chatbot with Llama 3.3 + ChromaDB + Gradio +Groq Full Tutorial](https://www.youtube.com/watch?v=Qq-YDcKtzcs)  
+> by @codewithvikas  
 
 ---
 
