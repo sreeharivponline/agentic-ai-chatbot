@@ -1,6 +1,6 @@
 # agent.py
 
-from langchain_groq import ChatGroq
+from langchain_groq import ChatGroq # type: ignore
 import os
 from typing import Tuple, List, Optional
 
