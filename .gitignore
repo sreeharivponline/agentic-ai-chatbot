@@ -4,3 +4,4 @@ echo "__pycache__/" >> .gitignore
 echo "*.pyc" >> .gitignore
 echo ".env" >> .gitignore
 agentic_ai/Lib/
+.env
