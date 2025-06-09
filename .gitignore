@@ -1,7 +1,6 @@
-echo "document.pdf" >> .gitignore
-echo ".venv/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.pyc" >> .gitignore
-echo ".env" >> .gitignore
-agentic_ai/Lib/
 .env
+.venv/
+__pycache__/
+*.pyc
+document.pdf
+agentic_ai/Lib/
